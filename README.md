@@ -17,6 +17,9 @@ If image execution is not possible, we recommend reinstalling VirtualBox 5.2 ver
 
 [Virtual Box 5.2 Link](https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)
 
+## DKU_OS Image Download
+[link](https://drive.google.com/open?id=1uCVLdL9EdkVZhmvn4egd2p4aErwybT2i)
+
 ## Clone Git Repository
 git clone https://github.com/ChoiGunHee/2020_DKU_OS.git
 
@@ -34,7 +37,7 @@ make
 
 ./lab1_sched
 
-Documentation for conducting the assignment can be found at following link : [link](https://drive.google.com/file/d/1E51X8gZd9rYuE550aYwXejqJrVGv9ZMJ/view?usp=sharing)
+Documentation for conducting the assignment can be found at following link : [link](https://drive.google.com/open?id=1JIwUUl1qL7z290NiIqOBuZLzkXMjQn55)
 
 ## Lab2
 
