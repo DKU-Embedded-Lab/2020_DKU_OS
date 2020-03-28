@@ -8,11 +8,11 @@ This is a place for studying Operaing System in Dankook University.
 
 
 ## Download Environment
-Virtual Machine Platform: VirtualBox 6.1 [link](https://www.virtualbox.org/)
+Virtual Machine Platform: VirtualBox 6.X [link](https://www.virtualbox.org/)
 
 Operating System: Ubuntu 18.04 [link](https://ubuntu.com/download/desktop)
 
-This environment is based on VirtualBox 6.1.
+This environment is based on VirtualBox 6.X.
 If image execution is not possible, we recommend reinstalling VirtualBox 5.2 version.
 
 [Virtual Box 5.2 Link](https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)
