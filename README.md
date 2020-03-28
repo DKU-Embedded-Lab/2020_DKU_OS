@@ -34,9 +34,7 @@ make
 
 ./lab1_sched
 
-Documentation for conducting the assignment can be found at following link :
-
-[link](https://drive.google.com/file/d/1E51X8gZd9rYuE550aYwXejqJrVGv9ZMJ/view?usp=sharing)
+Documentation for conducting the assignment can be found at following link : [link](https://drive.google.com/file/d/1E51X8gZd9rYuE550aYwXejqJrVGv9ZMJ/view?usp=sharing)
 
 ## Lab2
 
