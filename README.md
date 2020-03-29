@@ -34,7 +34,9 @@ The documentation for lab0 is at the link below.
 
 The OS image to use for preferences is also on the link below.
 
-#### Documentation for conducting the assignment can be found at following link : [link](https://drive.google.com/open?id=1JIwUUl1qL7z290NiIqOBuZLzkXMjQn55)
+Documentation for conducting the assignment can be found at following link :
+
+#### [Lab0 Documentation Link](https://drive.google.com/open?id=1JIwUUl1qL7z290NiIqOBuZLzkXMjQn55)
 
 #### DKU_OS Image Download [link](https://drive.google.com/open?id=1uCVLdL9EdkVZhmvn4egd2p4aErwybT2i)
 
