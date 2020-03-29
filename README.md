@@ -29,8 +29,7 @@ sudo apt-get install git
 
 Documentation for conducting the assignment can be found at following link : [link](https://drive.google.com/open?id=1JIwUUl1qL7z290NiIqOBuZLzkXMjQn55)
 
-#### DKU_OS Image Download
-[link](https://drive.google.com/open?id=1uCVLdL9EdkVZhmvn4egd2p4aErwybT2i)
+#### DKU_OS Image Download [link](https://drive.google.com/open?id=1uCVLdL9EdkVZhmvn4egd2p4aErwybT2i)
 
 ## Lab1
 If you want to proceed to Lab1, go to command below :
