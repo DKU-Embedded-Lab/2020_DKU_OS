@@ -42,11 +42,27 @@ make
 
 Documentation for conducting the assignment can be found at following link :
 
-Scheduled to upload
+[Lab1 Documentation Link](https://drive.google.com/open?id=1LzeJsWAyntJVmKHmIJl5YgBYGpVuNCs0)
 
 ## Lab2
 
-Scheduled to upload
+If you want to proceed to Lab2, go to command below :
+
+cd lab2_sync
+
+make lab2_example
+
+./lab2_example –t 4 –i 1000000 –s o
+
+./lab2_example –t 4 –i 1000000 –s m
+
+The above command is an example.
+
+See the documentation for details.
+
+Documentation for conducting the assignment can be found at following link :
+
+[Lab2 Documentation Link](https://drive.google.com/open?id=1lLiAKuQeW7PDoqocLSaPB4N2v9GvcSHR)
 
 ## Lab3
 
