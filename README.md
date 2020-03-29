@@ -26,6 +26,13 @@ If you get an error there are no commands, install git with following command :
 sudo apt-get install git
 
 ## Lab0
+lab0 contains information about installing a virtual machine and Ubuntu.
+
+Set the environment according to the documentation.
+
+The documentation for lab0 is at the link below.
+
+The OS image to use for preferences is also on the link below.
 
 Documentation for conducting the assignment can be found at following link : [link](https://drive.google.com/open?id=1JIwUUl1qL7z290NiIqOBuZLzkXMjQn55)
 
