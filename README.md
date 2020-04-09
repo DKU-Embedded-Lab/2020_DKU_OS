@@ -45,11 +45,13 @@ Documentation for conducting the assignment can be found at following link :
 ## Lab1
 If you want to proceed to Lab1, go to command below :
 
+```
 cd lab1_sched
 
 make
 
 ./lab1_sched
+```
 
 Documentation for conducting the assignment can be found at following link :
 
@@ -59,6 +61,7 @@ Documentation for conducting the assignment can be found at following link :
 
 If you want to proceed to Lab2, go to command below :
 
+```
 cd lab2_sync
 
 make lab2_example
@@ -66,6 +69,7 @@ make lab2_example
 ./lab2_example –t 4 –i 1000000 –s o
 
 ./lab2_example –t 4 –i 1000000 –s m
+```
 
 The above command is an example.
 
