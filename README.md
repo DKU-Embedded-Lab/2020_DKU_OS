@@ -19,7 +19,10 @@ If image execution is not possible, we recommend reinstalling VirtualBox 5.2 ver
 
 
 ## Clone Git Repository
+
+```
 git clone https://github.com/DKU-Embedded-Lab/2020_DKU_OS.git
+```
 
 If you get an error there are no commands, install git with following command :
 
