@@ -23,9 +23,9 @@ git clone https://github.com/DKU-Embedded-Lab/2020_DKU_OS.git
 
 If you get an error there are no commands, install git with following command :
 
-...
+'''
 sudo apt-get install git
-...
+'''
 
 ## Lab0
 lab0 contains information about installing a virtual machine and Ubuntu.
