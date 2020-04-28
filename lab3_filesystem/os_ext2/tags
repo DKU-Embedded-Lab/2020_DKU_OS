@@ -1,0 +1,711 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	ext2.h	619;"	d
+A	ext2.h	623;"	d
+BLOCK_COST	ialloc.c	255;"	d	file:
+BLOCK_HASH_SHIFT	xattr.c	1023;"	d	file:
+BLOCK_HASH_SHIFT	xattr.c	994;"	d	file:
+E2FSBLK	ext2.h	28;"	d
+EA_BLOCK_CACHE	xattr.c	125;"	d	file:
+EFSCORRUPTED	ext2.h	372;"	d
+ENTRY	xattr.c	69;"	d	file:
+EXT2FS_DATE	ext2.h	142;"	d
+EXT2FS_DEBUG	ext2.h	130;"	d
+EXT2FS_VERSION	ext2.h	143;"	d
+EXT2_ACL_VERSION	acl.h	10;"	d
+EXT2_ADDR_PER_BLOCK	ext2.h	181;"	d
+EXT2_ADDR_PER_BLOCK_BITS	ext2.h	183;"	d
+EXT2_APPEND_FL	ext2.h	236;"	d
+EXT2_BAD_INO	ext2.h	161;"	d
+EXT2_BLOCKS_PER_GROUP	ext2.h	214;"	d
+EXT2_BLOCK_SIZE	ext2.h	180;"	d
+EXT2_BLOCK_SIZE_BITS	ext2.h	182;"	d
+EXT2_BOOT_LOADER_INO	ext2.h	163;"	d
+EXT2_BTREE_FL	ext2.h	245;"	d
+EXT2_CLEAR_COMPAT_FEATURE	ext2.h	525;"	d
+EXT2_CLEAR_INCOMPAT_FEATURE	ext2.h	529;"	d
+EXT2_CLEAR_RO_COMPAT_FEATURE	ext2.h	527;"	d
+EXT2_COMPRBLK_FL	ext2.h	241;"	d
+EXT2_COMPR_FL	ext2.h	233;"	d
+EXT2_CURRENT_REV	ext2.h	504;"	d
+EXT2_DEFAULT_RESERVE_BLOCKS	ext2.h	135;"	d
+EXT2_DEFM_ACL	ext2.h	573;"	d
+EXT2_DEFM_BSDGROUPS	ext2.h	571;"	d
+EXT2_DEFM_DEBUG	ext2.h	570;"	d
+EXT2_DEFM_UID16	ext2.h	574;"	d
+EXT2_DEFM_XATTR_USER	ext2.h	572;"	d
+EXT2_DEF_RESGID	ext2.h	565;"	d
+EXT2_DEF_RESUID	ext2.h	564;"	d
+EXT2_DESC_PER_BLOCK	ext2.h	215;"	d
+EXT2_DESC_PER_BLOCK_BITS	ext2.h	217;"	d
+EXT2_DFL_CHECKINTERVAL	ext2.h	404;"	d
+EXT2_DFL_MAX_MNT_COUNT	ext2.h	403;"	d
+EXT2_DIND_BLOCK	ext2.h	224;"	d
+EXT2_DIRSYNC_FL	ext2.h	250;"	d
+EXT2_DIRTY_FL	ext2.h	240;"	d
+EXT2_DIR_PAD	ext2.h	611;"	d
+EXT2_DIR_REC_LEN	ext2.h	613;"	d
+EXT2_DIR_ROUND	ext2.h	612;"	d
+EXT2_DYNAMIC_REV	ext2.h	502;"	d
+EXT2_ECOMPR_FL	ext2.h	243;"	d
+EXT2_ERRORS_CONTINUE	ext2.h	409;"	d
+EXT2_ERRORS_DEFAULT	ext2.h	412;"	d
+EXT2_ERRORS_PANIC	ext2.h	411;"	d
+EXT2_ERRORS_RO	ext2.h	410;"	d
+EXT2_ERROR_FS	ext2.h	371;"	d
+EXT2_FEATURE_COMPAT_ANY	ext2.h	538;"	d
+EXT2_FEATURE_COMPAT_DIR_INDEX	ext2.h	537;"	d
+EXT2_FEATURE_COMPAT_DIR_PREALLOC	ext2.h	532;"	d
+EXT2_FEATURE_COMPAT_EXT_ATTR	ext2.h	535;"	d
+EXT2_FEATURE_COMPAT_IMAGIC_INODES	ext2.h	533;"	d
+EXT2_FEATURE_COMPAT_RESIZE_INO	ext2.h	536;"	d
+EXT2_FEATURE_COMPAT_SUPP	ext2.h	552;"	d
+EXT2_FEATURE_INCOMPAT_ANY	ext2.h	550;"	d
+EXT2_FEATURE_INCOMPAT_COMPRESSION	ext2.h	545;"	d
+EXT2_FEATURE_INCOMPAT_FILETYPE	ext2.h	546;"	d
+EXT2_FEATURE_INCOMPAT_META_BG	ext2.h	549;"	d
+EXT2_FEATURE_INCOMPAT_SUPP	ext2.h	553;"	d
+EXT2_FEATURE_INCOMPAT_UNSUPPORTED	ext2.h	559;"	d
+EXT2_FEATURE_RO_COMPAT_ANY	ext2.h	543;"	d
+EXT2_FEATURE_RO_COMPAT_BTREE_DIR	ext2.h	542;"	d
+EXT2_FEATURE_RO_COMPAT_LARGE_FILE	ext2.h	541;"	d
+EXT2_FEATURE_RO_COMPAT_SPARSE_SUPER	ext2.h	540;"	d
+EXT2_FEATURE_RO_COMPAT_SUPP	ext2.h	555;"	d
+EXT2_FEATURE_RO_COMPAT_UNSUPPORTED	ext2.h	558;"	d
+EXT2_FIRST_INO	ext2.h	185;"	d
+EXT2_FL_INHERITED	ext2.h	258;"	d
+EXT2_FL_USER_MODIFIABLE	ext2.h	255;"	d
+EXT2_FL_USER_VISIBLE	ext2.h	254;"	d
+EXT2_FRAGS_PER_BLOCK	ext2.h	194;"	d
+EXT2_FRAG_SIZE	ext2.h	193;"	d
+EXT2_GOOD_OLD_FIRST_INO	ext2.h	167;"	d
+EXT2_GOOD_OLD_INODE_SIZE	ext2.h	507;"	d
+EXT2_GOOD_OLD_REV	ext2.h	501;"	d
+EXT2_HAS_COMPAT_FEATURE	ext2.h	513;"	d
+EXT2_HAS_INCOMPAT_FEATURE	ext2.h	517;"	d
+EXT2_HAS_RO_COMPAT_FEATURE	ext2.h	515;"	d
+EXT2_I	ext2.h	/^static inline struct ext2_inode_info *EXT2_I(struct inode *inode)$/;"	f
+EXT2_IMAGIC_FL	ext2.h	247;"	d
+EXT2_IMMUTABLE_FL	ext2.h	235;"	d
+EXT2_INDEX_FL	ext2.h	246;"	d
+EXT2_IND_BLOCK	ext2.h	223;"	d
+EXT2_INODES_PER_GROUP	ext2.h	216;"	d
+EXT2_INODE_SIZE	ext2.h	184;"	d
+EXT2_IOC32_GETFLAGS	ext2.h	294;"	d
+EXT2_IOC32_GETVERSION	ext2.h	296;"	d
+EXT2_IOC32_SETFLAGS	ext2.h	295;"	d
+EXT2_IOC32_SETVERSION	ext2.h	297;"	d
+EXT2_IOC_GETFLAGS	ext2.h	284;"	d
+EXT2_IOC_GETRSVSZ	ext2.h	288;"	d
+EXT2_IOC_GETVERSION	ext2.h	286;"	d
+EXT2_IOC_SETFLAGS	ext2.h	285;"	d
+EXT2_IOC_SETRSVSZ	ext2.h	289;"	d
+EXT2_IOC_SETVERSION	ext2.h	287;"	d
+EXT2_JOURNAL_DATA_FL	ext2.h	248;"	d
+EXT2_MAX_BLOCK_SIZE	ext2.h	178;"	d
+EXT2_MAX_FRAG_SIZE	ext2.h	191;"	d
+EXT2_MAX_REC_LEN	ext2.h	615;"	d
+EXT2_MAX_RESERVE_BLOCKS	ext2.h	137;"	d
+EXT2_MAX_SUPP_REV	ext2.h	505;"	d
+EXT2_MIN_BLOCK_LOG_SIZE	ext2.h	179;"	d
+EXT2_MIN_BLOCK_SIZE	ext2.h	177;"	d
+EXT2_MIN_FRAG_LOG_SIZE	ext2.h	192;"	d
+EXT2_MIN_FRAG_SIZE	ext2.h	190;"	d
+EXT2_MOUNT_CHECK	ext2.h	377;"	d
+EXT2_MOUNT_DAX	ext2.h	393;"	d
+EXT2_MOUNT_DEBUG	ext2.h	380;"	d
+EXT2_MOUNT_ERRORS_CONT	ext2.h	381;"	d
+EXT2_MOUNT_ERRORS_PANIC	ext2.h	383;"	d
+EXT2_MOUNT_ERRORS_RO	ext2.h	382;"	d
+EXT2_MOUNT_GRPID	ext2.h	379;"	d
+EXT2_MOUNT_GRPQUOTA	ext2.h	391;"	d
+EXT2_MOUNT_MINIX_DF	ext2.h	384;"	d
+EXT2_MOUNT_NOBH	ext2.h	385;"	d
+EXT2_MOUNT_NO_UID32	ext2.h	386;"	d
+EXT2_MOUNT_OLDALLOC	ext2.h	378;"	d
+EXT2_MOUNT_POSIX_ACL	ext2.h	388;"	d
+EXT2_MOUNT_RESERVATION	ext2.h	392;"	d
+EXT2_MOUNT_USRQUOTA	ext2.h	390;"	d
+EXT2_MOUNT_XATTR_USER	ext2.h	387;"	d
+EXT2_MOUNT_XIP	ext2.h	389;"	d
+EXT2_NDIR_BLOCKS	ext2.h	222;"	d
+EXT2_NOATIME_FL	ext2.h	238;"	d
+EXT2_NOCOMP_FL	ext2.h	242;"	d
+EXT2_NODUMP_FL	ext2.h	237;"	d
+EXT2_NOTAIL_FL	ext2.h	249;"	d
+EXT2_N_BLOCKS	ext2.h	226;"	d
+EXT2_OS_FREEBSD	ext2.h	495;"	d
+EXT2_OS_HURD	ext2.h	493;"	d
+EXT2_OS_LINUX	ext2.h	492;"	d
+EXT2_OS_LITES	ext2.h	496;"	d
+EXT2_OS_MASIX	ext2.h	494;"	d
+EXT2_OTHER_FLMASK	ext2.h	268;"	d
+EXT2_REG_FLMASK	ext2.h	265;"	d
+EXT2_RESERVED_FL	ext2.h	252;"	d
+EXT2_RESERVE_WINDOW_NOT_ALLOCATED	ext2.h	138;"	d
+EXT2_ROOT_INO	ext2.h	162;"	d
+EXT2_SB	ext2.h	/^static inline struct ext2_sb_info *EXT2_SB(struct super_block *sb)$/;"	f
+EXT2_SECRM_FL	ext2.h	231;"	d
+EXT2_SET_COMPAT_FEATURE	ext2.h	519;"	d
+EXT2_SET_INCOMPAT_FEATURE	ext2.h	523;"	d
+EXT2_SET_RO_COMPAT_FEATURE	ext2.h	521;"	d
+EXT2_STATE_NEW	ext2.h	702;"	d
+EXT2_SYNC_FL	ext2.h	234;"	d
+EXT2_TIND_BLOCK	ext2.h	225;"	d
+EXT2_TOPDIR_FL	ext2.h	251;"	d
+EXT2_UNDEL_DIR_INO	ext2.h	164;"	d
+EXT2_UNRM_FL	ext2.h	232;"	d
+EXT2_VALID_FS	ext2.h	370;"	d
+EXT2_XATTR_INDEX_LUSTRE	xattr.h	24;"	d
+EXT2_XATTR_INDEX_POSIX_ACL_ACCESS	xattr.h	21;"	d
+EXT2_XATTR_INDEX_POSIX_ACL_DEFAULT	xattr.h	22;"	d
+EXT2_XATTR_INDEX_SECURITY	xattr.h	25;"	d
+EXT2_XATTR_INDEX_TRUSTED	xattr.h	23;"	d
+EXT2_XATTR_INDEX_USER	xattr.h	20;"	d
+EXT2_XATTR_LEN	xattr.h	48;"	d
+EXT2_XATTR_MAGIC	xattr.h	14;"	d
+EXT2_XATTR_NEXT	xattr.h	51;"	d
+EXT2_XATTR_PAD	xattr.h	46;"	d
+EXT2_XATTR_PAD_BITS	xattr.h	45;"	d
+EXT2_XATTR_REFCOUNT_MAX	xattr.h	17;"	d
+EXT2_XATTR_ROUND	xattr.h	47;"	d
+EXT2_XATTR_SIZE	xattr.h	54;"	d
+EXT3_DEFM_JMODE	ext2.h	576;"	d
+EXT3_DEFM_JMODE_DATA	ext2.h	577;"	d
+EXT3_DEFM_JMODE_ORDERED	ext2.h	578;"	d
+EXT3_DEFM_JMODE_WBACK	ext2.h	579;"	d
+EXT3_FEATURE_COMPAT_HAS_JOURNAL	ext2.h	534;"	d
+EXT3_FEATURE_INCOMPAT_JOURNAL_DEV	ext2.h	548;"	d
+EXT3_FEATURE_INCOMPAT_RECOVER	ext2.h	547;"	d
+FIRST_ENTRY	xattr.c	70;"	d	file:
+HASH_BUCKET_BITS	xattr.c	1025;"	d	file:
+HDR	xattr.c	68;"	d	file:
+INODE_COST	ialloc.c	254;"	d	file:
+IS_LAST_ENTRY	xattr.c	71;"	d	file:
+Indirect	inode.c	/^} Indirect;$/;"	t	typeref:struct:__anon1	file:
+NAME_HASH_SHIFT	xattr.c	957;"	d	file:
+NAME_HASH_SHIFT	xattr.c	991;"	d	file:
+Opt_acl	super.c	/^	Opt_acl, Opt_noacl, Opt_xip, Opt_dax, Opt_ignore, Opt_err, Opt_quota,$/;"	e	enum:__anon5	file:
+Opt_bsd_df	super.c	/^	Opt_bsd_df, Opt_minix_df, Opt_grpid, Opt_nogrpid,$/;"	e	enum:__anon5	file:
+Opt_dax	super.c	/^	Opt_acl, Opt_noacl, Opt_xip, Opt_dax, Opt_ignore, Opt_err, Opt_quota,$/;"	e	enum:__anon5	file:
+Opt_debug	super.c	/^	Opt_err_ro, Opt_nouid32, Opt_nocheck, Opt_debug,$/;"	e	enum:__anon5	file:
+Opt_err	super.c	/^	Opt_acl, Opt_noacl, Opt_xip, Opt_dax, Opt_ignore, Opt_err, Opt_quota,$/;"	e	enum:__anon5	file:
+Opt_err_cont	super.c	/^	Opt_resgid, Opt_resuid, Opt_sb, Opt_err_cont, Opt_err_panic,$/;"	e	enum:__anon5	file:
+Opt_err_panic	super.c	/^	Opt_resgid, Opt_resuid, Opt_sb, Opt_err_cont, Opt_err_panic,$/;"	e	enum:__anon5	file:
+Opt_err_ro	super.c	/^	Opt_err_ro, Opt_nouid32, Opt_nocheck, Opt_debug,$/;"	e	enum:__anon5	file:
+Opt_grpid	super.c	/^	Opt_bsd_df, Opt_minix_df, Opt_grpid, Opt_nogrpid,$/;"	e	enum:__anon5	file:
+Opt_grpquota	super.c	/^	Opt_usrquota, Opt_grpquota, Opt_reservation, Opt_noreservation$/;"	e	enum:__anon5	file:
+Opt_ignore	super.c	/^	Opt_acl, Opt_noacl, Opt_xip, Opt_dax, Opt_ignore, Opt_err, Opt_quota,$/;"	e	enum:__anon5	file:
+Opt_minix_df	super.c	/^	Opt_bsd_df, Opt_minix_df, Opt_grpid, Opt_nogrpid,$/;"	e	enum:__anon5	file:
+Opt_noacl	super.c	/^	Opt_acl, Opt_noacl, Opt_xip, Opt_dax, Opt_ignore, Opt_err, Opt_quota,$/;"	e	enum:__anon5	file:
+Opt_nobh	super.c	/^	Opt_oldalloc, Opt_orlov, Opt_nobh, Opt_user_xattr, Opt_nouser_xattr,$/;"	e	enum:__anon5	file:
+Opt_nocheck	super.c	/^	Opt_err_ro, Opt_nouid32, Opt_nocheck, Opt_debug,$/;"	e	enum:__anon5	file:
+Opt_nogrpid	super.c	/^	Opt_bsd_df, Opt_minix_df, Opt_grpid, Opt_nogrpid,$/;"	e	enum:__anon5	file:
+Opt_noreservation	super.c	/^	Opt_usrquota, Opt_grpquota, Opt_reservation, Opt_noreservation$/;"	e	enum:__anon5	file:
+Opt_nouid32	super.c	/^	Opt_err_ro, Opt_nouid32, Opt_nocheck, Opt_debug,$/;"	e	enum:__anon5	file:
+Opt_nouser_xattr	super.c	/^	Opt_oldalloc, Opt_orlov, Opt_nobh, Opt_user_xattr, Opt_nouser_xattr,$/;"	e	enum:__anon5	file:
+Opt_oldalloc	super.c	/^	Opt_oldalloc, Opt_orlov, Opt_nobh, Opt_user_xattr, Opt_nouser_xattr,$/;"	e	enum:__anon5	file:
+Opt_orlov	super.c	/^	Opt_oldalloc, Opt_orlov, Opt_nobh, Opt_user_xattr, Opt_nouser_xattr,$/;"	e	enum:__anon5	file:
+Opt_quota	super.c	/^	Opt_acl, Opt_noacl, Opt_xip, Opt_dax, Opt_ignore, Opt_err, Opt_quota,$/;"	e	enum:__anon5	file:
+Opt_reservation	super.c	/^	Opt_usrquota, Opt_grpquota, Opt_reservation, Opt_noreservation$/;"	e	enum:__anon5	file:
+Opt_resgid	super.c	/^	Opt_resgid, Opt_resuid, Opt_sb, Opt_err_cont, Opt_err_panic,$/;"	e	enum:__anon5	file:
+Opt_resuid	super.c	/^	Opt_resgid, Opt_resuid, Opt_sb, Opt_err_cont, Opt_err_panic,$/;"	e	enum:__anon5	file:
+Opt_sb	super.c	/^	Opt_resgid, Opt_resuid, Opt_sb, Opt_err_cont, Opt_err_panic,$/;"	e	enum:__anon5	file:
+Opt_user_xattr	super.c	/^	Opt_oldalloc, Opt_orlov, Opt_nobh, Opt_user_xattr, Opt_nouser_xattr,$/;"	e	enum:__anon5	file:
+Opt_usrquota	super.c	/^	Opt_usrquota, Opt_grpquota, Opt_reservation, Opt_noreservation$/;"	e	enum:__anon5	file:
+Opt_xip	super.c	/^	Opt_acl, Opt_noacl, Opt_xip, Opt_dax, Opt_ignore, Opt_err, Opt_quota,$/;"	e	enum:__anon5	file:
+VALUE_HASH_SHIFT	xattr.c	958;"	d	file:
+VALUE_HASH_SHIFT	xattr.c	992;"	d	file:
+__ext2_set_acl	acl.c	/^__ext2_set_acl(struct inode *inode, struct posix_acl *acl, int type)$/;"	f	file:
+__ext2_truncate_blocks	inode.c	/^static void __ext2_truncate_blocks(struct inode *inode, loff_t offset)$/;"	f	file:
+__ext2_write_inode	inode.c	/^static int __ext2_write_inode(struct inode *inode, int do_sync)$/;"	f	file:
+__rsv_window_dump	balloc.c	/^static void __rsv_window_dump(struct rb_root *root, int verbose,$/;"	f	file:
+_rsv_end	ext2.h	/^	ext2_fsblk_t		_rsv_end;	\/* Last byte reserved or 0 *\/$/;"	m	struct:ext2_reserve_window
+_rsv_start	ext2.h	/^	ext2_fsblk_t		_rsv_start;	\/* First byte reserved *\/$/;"	m	struct:ext2_reserve_window
+a_version	acl.h	/^	__le32		a_version;$/;"	m	struct:__anon4
+add_chain	inode.c	/^static inline void add_chain(Indirect *p, struct buffer_head *bh, __le32 *v)$/;"	f	file:
+all_zeroes	inode.c	/^static inline int all_zeroes(__le32 *p, __le32 *q)$/;"	f	file:
+alloc_new_reservation	balloc.c	/^static int alloc_new_reservation(struct ext2_reserve_window_node *my_rsv,$/;"	f	file:
+bg_block_bitmap	ext2.h	/^	__le32	bg_block_bitmap;		\/* Blocks bitmap block *\/$/;"	m	struct:ext2_group_desc
+bg_free_blocks_count	ext2.h	/^	__le16	bg_free_blocks_count;	\/* Free blocks count *\/$/;"	m	struct:ext2_group_desc
+bg_free_inodes_count	ext2.h	/^	__le16	bg_free_inodes_count;	\/* Free inodes count *\/$/;"	m	struct:ext2_group_desc
+bg_inode_bitmap	ext2.h	/^	__le32	bg_inode_bitmap;		\/* Inodes bitmap block *\/$/;"	m	struct:ext2_group_desc
+bg_inode_table	ext2.h	/^	__le32	bg_inode_table;		\/* Inodes table block *\/$/;"	m	struct:ext2_group_desc
+bg_pad	ext2.h	/^	__le16	bg_pad;$/;"	m	struct:ext2_group_desc
+bg_reserved	ext2.h	/^	__le32	bg_reserved[3];$/;"	m	struct:ext2_group_desc
+bg_used_dirs_count	ext2.h	/^	__le16	bg_used_dirs_count;	\/* Directories count *\/$/;"	m	struct:ext2_group_desc
+bh	inode.c	/^	struct buffer_head *bh;$/;"	m	struct:__anon1	typeref:struct:__anon1::buffer_head	file:
+bitmap_search_next_usable_block	balloc.c	/^bitmap_search_next_usable_block(ext2_grpblk_t start, struct buffer_head *bh,$/;"	f	file:
+clear_opt	ext2.h	396;"	d
+dax_sem	ext2.h	/^	struct rw_semaphore dax_sem;$/;"	m	struct:ext2_inode_info	typeref:struct:ext2_inode_info::rw_semaphore
+dax_sem_down_write	ext2.h	692;"	d
+dax_sem_down_write	ext2.h	695;"	d
+dax_sem_up_write	ext2.h	693;"	d
+dax_sem_up_write	ext2.h	696;"	d
+descriptor_loc	super.c	/^static unsigned long descriptor_loc(struct super_block *sb,$/;"	f	file:
+destroy_inodecache	super.c	/^static void destroy_inodecache(void)$/;"	f	file:
+e_hash	xattr.h	/^	__le32	e_hash;		\/* hash value of name and value *\/$/;"	m	struct:ext2_xattr_entry
+e_id	acl.h	/^	__le32		e_id;$/;"	m	struct:__anon2
+e_name	xattr.h	/^	char	e_name[0];	\/* attribute name *\/$/;"	m	struct:ext2_xattr_entry
+e_name_index	xattr.h	/^	__u8	e_name_index;	\/* attribute name index *\/$/;"	m	struct:ext2_xattr_entry
+e_name_len	xattr.h	/^	__u8	e_name_len;	\/* length of name *\/$/;"	m	struct:ext2_xattr_entry
+e_perm	acl.h	/^	__le16		e_perm;$/;"	m	struct:__anon2
+e_perm	acl.h	/^	__le16		e_perm;$/;"	m	struct:__anon3
+e_tag	acl.h	/^	__le16		e_tag;$/;"	m	struct:__anon2
+e_tag	acl.h	/^	__le16		e_tag;$/;"	m	struct:__anon3
+e_value_block	xattr.h	/^	__le32	e_value_block;	\/* disk block attribute is stored on (n\/i) *\/$/;"	m	struct:ext2_xattr_entry
+e_value_offs	xattr.h	/^	__le16	e_value_offs;	\/* offset in disk block of value *\/$/;"	m	struct:ext2_xattr_entry
+e_value_size	xattr.h	/^	__le32	e_value_size;	\/* size of attribute value *\/$/;"	m	struct:ext2_xattr_entry
+ea_bdebug	xattr.c	80;"	d	file:
+ea_bdebug	xattr.c	88;"	d	file:
+ea_idebug	xattr.c	74;"	d	file:
+ea_idebug	xattr.c	87;"	d	file:
+exit_ext2_fs	super.c	/^static void __exit exit_ext2_fs(void)$/;"	f	file:
+ext2-y	Makefile	/^ext2-y := balloc.o dir.o file.o ialloc.o inode.o \\$/;"	m
+ext2_acl_count	acl.h	/^static inline int ext2_acl_count(size_t size)$/;"	f
+ext2_acl_entry	acl.h	/^} ext2_acl_entry;$/;"	t	typeref:struct:__anon2
+ext2_acl_entry_short	acl.h	/^} ext2_acl_entry_short;$/;"	t	typeref:struct:__anon3
+ext2_acl_from_disk	acl.c	/^ext2_acl_from_disk(const void *value, size_t size)$/;"	f	file:
+ext2_acl_header	acl.h	/^} ext2_acl_header;$/;"	t	typeref:struct:__anon4
+ext2_acl_size	acl.h	/^static inline size_t ext2_acl_size(int count)$/;"	f
+ext2_acl_to_disk	acl.c	/^ext2_acl_to_disk(const struct posix_acl *acl, size_t *size)$/;"	f	file:
+ext2_add_link	dir.c	/^int ext2_add_link (struct dentry *dentry, struct inode *inode)$/;"	f
+ext2_add_nondir	namei.c	/^static inline int ext2_add_nondir(struct dentry *dentry, struct inode *inode)$/;"	f	file:
+ext2_alloc_blocks	inode.c	/^static int ext2_alloc_blocks(struct inode *inode,$/;"	f	file:
+ext2_alloc_branch	inode.c	/^static int ext2_alloc_branch(struct inode *inode,$/;"	f	file:
+ext2_alloc_inode	super.c	/^static struct inode *ext2_alloc_inode(struct super_block *sb)$/;"	f	file:
+ext2_aops	inode.c	/^const struct address_space_operations ext2_aops = {$/;"	v	typeref:struct:address_space_operations
+ext2_bg_has_super	balloc.c	/^int ext2_bg_has_super(struct super_block *sb, int group)$/;"	f
+ext2_bg_num_gdb	balloc.c	/^unsigned long ext2_bg_num_gdb(struct super_block *sb, int group)$/;"	f
+ext2_blks_to_allocate	inode.c	/^ext2_blks_to_allocate(Indirect * branch, int k, unsigned long blks,$/;"	f	file:
+ext2_block_alloc_info	ext2.h	/^struct ext2_block_alloc_info {$/;"	s
+ext2_block_to_path	inode.c	/^static int ext2_block_to_path(struct inode *inode,$/;"	f	file:
+ext2_bmap	inode.c	/^static sector_t ext2_bmap(struct address_space *mapping, sector_t block)$/;"	f	file:
+ext2_check_descriptors	super.c	/^static int ext2_check_descriptors(struct super_block *sb)$/;"	f	file:
+ext2_check_page	dir.c	/^static bool ext2_check_page(struct page *page, int quiet)$/;"	f	file:
+ext2_chunk_size	dir.c	/^static inline unsigned ext2_chunk_size(struct inode *inode)$/;"	f	file:
+ext2_clear_bit	ext2.h	817;"	d
+ext2_clear_super_error	super.c	/^static void ext2_clear_super_error(struct super_block *sb)$/;"	f	file:
+ext2_commit_chunk	dir.c	/^static int ext2_commit_chunk(struct page *page, loff_t pos, unsigned len)$/;"	f	file:
+ext2_compat_ioctl	ioctl.c	/^long ext2_compat_ioctl(struct file *file, unsigned int cmd, unsigned long arg)$/;"	f
+ext2_count_dirs	ialloc.c	/^unsigned long ext2_count_dirs (struct super_block * sb)$/;"	f
+ext2_count_free	balloc.c	/^unsigned long ext2_count_free(struct buffer_head *map, unsigned int numchars)$/;"	f
+ext2_count_free_blocks	balloc.c	/^unsigned long ext2_count_free_blocks (struct super_block * sb)$/;"	f
+ext2_count_free_inodes	ialloc.c	/^unsigned long ext2_count_free_inodes (struct super_block * sb)$/;"	f
+ext2_create	namei.c	/^static int ext2_create (struct inode * dir, struct dentry * dentry, umode_t mode, bool excl)$/;"	f	file:
+ext2_data_block_valid	balloc.c	/^int ext2_data_block_valid(struct ext2_sb_info *sbi, ext2_fsblk_t start_blk,$/;"	f
+ext2_dax_aops	inode.c	/^static const struct address_space_operations ext2_dax_aops = {$/;"	v	typeref:struct:address_space_operations	file:
+ext2_dax_fault	file.c	/^static vm_fault_t ext2_dax_fault(struct vm_fault *vmf)$/;"	f	file:
+ext2_dax_read_iter	file.c	/^static ssize_t ext2_dax_read_iter(struct kiocb *iocb, struct iov_iter *to)$/;"	f	file:
+ext2_dax_vm_ops	file.c	/^static const struct vm_operations_struct ext2_dax_vm_ops = {$/;"	v	typeref:struct:vm_operations_struct	file:
+ext2_dax_write_iter	file.c	/^static ssize_t ext2_dax_write_iter(struct kiocb *iocb, struct iov_iter *from)$/;"	f	file:
+ext2_dax_writepages	inode.c	/^ext2_dax_writepages(struct address_space *mapping, struct writeback_control *wbc)$/;"	f	file:
+ext2_debug	ext2.h	149;"	d
+ext2_debug	ext2.h	155;"	d
+ext2_delete_entry	dir.c	/^int ext2_delete_entry (struct ext2_dir_entry_2 * dir, struct page * page )$/;"	f
+ext2_dir_entry	ext2.h	/^struct ext2_dir_entry {$/;"	s
+ext2_dir_entry_2	ext2.h	/^struct ext2_dir_entry_2 {$/;"	s
+ext2_dir_inode_operations	namei.c	/^const struct inode_operations ext2_dir_inode_operations = {$/;"	v	typeref:struct:inode_operations
+ext2_dir_operations	dir.c	/^const struct file_operations ext2_dir_operations = {$/;"	v	typeref:struct:file_operations
+ext2_direct_IO	inode.c	/^ext2_direct_IO(struct kiocb *iocb, struct iov_iter *iter)$/;"	f	file:
+ext2_dirent	dir.c	/^typedef struct ext2_dir_entry_2 ext2_dirent;$/;"	t	typeref:struct:ext2_dir_entry_2	file:
+ext2_discard_reservation	balloc.c	/^void ext2_discard_reservation(struct inode *inode)$/;"	f
+ext2_dotdot	dir.c	/^struct ext2_dir_entry_2 * ext2_dotdot (struct inode *dir, struct page **p)$/;"	f
+ext2_empty_dir	dir.c	/^int ext2_empty_dir (struct inode * inode)$/;"	f
+ext2_error	super.c	/^void ext2_error(struct super_block *sb, const char *function,$/;"	f
+ext2_evict_inode	inode.c	/^void ext2_evict_inode(struct inode * inode)$/;"	f
+ext2_export_ops	super.c	/^static const struct export_operations ext2_export_ops = {$/;"	v	typeref:struct:export_operations	file:
+ext2_fast_symlink_inode_operations	symlink.c	/^const struct inode_operations ext2_fast_symlink_inode_operations = {$/;"	v	typeref:struct:inode_operations
+ext2_fh_to_dentry	super.c	/^static struct dentry *ext2_fh_to_dentry(struct super_block *sb, struct fid *fid,$/;"	f	file:
+ext2_fh_to_parent	super.c	/^static struct dentry *ext2_fh_to_parent(struct super_block *sb, struct fid *fid,$/;"	f	file:
+ext2_fiemap	inode.c	/^int ext2_fiemap(struct inode *inode, struct fiemap_extent_info *fieinfo,$/;"	f
+ext2_file_inode_operations	file.c	/^const struct inode_operations ext2_file_inode_operations = {$/;"	v	typeref:struct:inode_operations
+ext2_file_mmap	file.c	/^static int ext2_file_mmap(struct file *file, struct vm_area_struct *vma)$/;"	f	file:
+ext2_file_mmap	file.c	132;"	d	file:
+ext2_file_operations	file.c	/^const struct file_operations ext2_file_operations = {$/;"	v	typeref:struct:file_operations
+ext2_file_read_iter	file.c	/^static ssize_t ext2_file_read_iter(struct kiocb *iocb, struct iov_iter *to)$/;"	f	file:
+ext2_file_write_iter	file.c	/^static ssize_t ext2_file_write_iter(struct kiocb *iocb, struct iov_iter *from)$/;"	f	file:
+ext2_fill_super	super.c	/^static int ext2_fill_super(struct super_block *sb, void *data, int silent)$/;"	f	file:
+ext2_find_entry	dir.c	/^struct ext2_dir_entry_2 *ext2_find_entry (struct inode *dir,$/;"	f
+ext2_find_first_zero_bit	ext2.h	819;"	d
+ext2_find_goal	inode.c	/^static inline ext2_fsblk_t ext2_find_goal(struct inode *inode, long block,$/;"	f	file:
+ext2_find_near	inode.c	/^static ext2_fsblk_t ext2_find_near(struct inode *inode, Indirect *ind)$/;"	f	file:
+ext2_find_next_zero_bit	ext2.h	820;"	d
+ext2_find_shared	inode.c	/^static Indirect *ext2_find_shared(struct inode *inode,$/;"	f	file:
+ext2_free_blocks	balloc.c	/^void ext2_free_blocks (struct inode * inode, unsigned long block,$/;"	f
+ext2_free_branches	inode.c	/^static void ext2_free_branches(struct inode *inode, __le32 *p, __le32 *q, int depth)$/;"	f	file:
+ext2_free_data	inode.c	/^static inline void ext2_free_data(struct inode *inode, __le32 *p, __le32 *q)$/;"	f	file:
+ext2_free_in_core_inode	super.c	/^static void ext2_free_in_core_inode(struct inode *inode)$/;"	f	file:
+ext2_free_inode	ialloc.c	/^void ext2_free_inode (struct inode * inode)$/;"	f
+ext2_freeze	super.c	/^static int ext2_freeze(struct super_block *sb)$/;"	f	file:
+ext2_fs_type	super.c	/^static struct file_system_type ext2_fs_type = {$/;"	v	typeref:struct:file_system_type	file:
+ext2_fsblk_t	ext2.h	/^typedef unsigned long ext2_fsblk_t;$/;"	t
+ext2_fsync	file.c	/^int ext2_fsync(struct file *file, loff_t start, loff_t end, int datasync)$/;"	f
+ext2_get_acl	acl.c	/^ext2_get_acl(struct inode *inode, int type)$/;"	f
+ext2_get_acl	acl.h	64;"	d
+ext2_get_block	inode.c	/^int ext2_get_block(struct inode *inode, sector_t iblock,$/;"	f
+ext2_get_blocks	inode.c	/^static int ext2_get_blocks(struct inode *inode,$/;"	f	file:
+ext2_get_branch	inode.c	/^static Indirect *ext2_get_branch(struct inode *inode,$/;"	f	file:
+ext2_get_dquots	super.c	/^static struct dquot **ext2_get_dquots(struct inode *inode)$/;"	f	file:
+ext2_get_group_desc	balloc.c	/^struct ext2_group_desc * ext2_get_group_desc(struct super_block * sb,$/;"	f
+ext2_get_inode	inode.c	/^static struct ext2_inode *ext2_get_inode(struct super_block *sb, ino_t ino,$/;"	f	file:
+ext2_get_page	dir.c	/^static struct page * ext2_get_page(struct inode *dir, unsigned long n,$/;"	f	file:
+ext2_get_parent	namei.c	/^struct dentry *ext2_get_parent(struct dentry *child)$/;"	f
+ext2_getattr	inode.c	/^int ext2_getattr(const struct path *path, struct kstat *stat,$/;"	f
+ext2_group_desc	ext2.h	/^struct ext2_group_desc$/;"	s
+ext2_group_first_block_no	ext2.h	/^ext2_group_first_block_no(struct super_block *sb, unsigned long group_no)$/;"	f
+ext2_group_sparse	balloc.c	/^static int ext2_group_sparse(int group)$/;"	f	file:
+ext2_grpblk_t	ext2.h	/^typedef int ext2_grpblk_t;$/;"	t
+ext2_has_free_blocks	balloc.c	/^static int ext2_has_free_blocks(struct ext2_sb_info *sbi)$/;"	f	file:
+ext2_iget	inode.c	/^struct inode *ext2_iget (struct super_block *sb, unsigned long ino)$/;"	f
+ext2_init_acl	acl.c	/^ext2_init_acl(struct inode *inode, struct inode *dir)$/;"	f
+ext2_init_acl	acl.h	/^static inline int ext2_init_acl (struct inode *inode, struct inode *dir)$/;"	f
+ext2_init_block_alloc_info	balloc.c	/^void ext2_init_block_alloc_info(struct inode *inode)$/;"	f
+ext2_init_security	xattr.h	/^static inline int ext2_init_security(struct inode *inode, struct inode *dir,$/;"	f
+ext2_init_security	xattr_security.c	/^ext2_init_security(struct inode *inode, struct inode *dir,$/;"	f
+ext2_initxattrs	xattr_security.c	/^static int ext2_initxattrs(struct inode *inode, const struct xattr *xattr_array,$/;"	f	file:
+ext2_inode	ext2.h	/^struct ext2_inode {$/;"	s
+ext2_inode_by_name	dir.c	/^ino_t ext2_inode_by_name(struct inode *dir, const struct qstr *child)$/;"	f
+ext2_inode_cachep	super.c	/^static struct kmem_cache * ext2_inode_cachep;$/;"	v	typeref:struct:kmem_cache	file:
+ext2_inode_info	ext2.h	/^struct ext2_inode_info {$/;"	s
+ext2_inode_is_fast_symlink	inode.c	/^static inline int ext2_inode_is_fast_symlink(struct inode *inode)$/;"	f	file:
+ext2_ioctl	ioctl.c	/^long ext2_ioctl(struct file *filp, unsigned int cmd, unsigned long arg)$/;"	f
+ext2_iomap_begin	inode.c	/^static int ext2_iomap_begin(struct inode *inode, loff_t offset, loff_t length,$/;"	f	file:
+ext2_iomap_end	inode.c	/^ext2_iomap_end(struct inode *inode, loff_t offset, loff_t length,$/;"	f	file:
+ext2_iomap_ops	inode.c	/^const struct iomap_ops ext2_iomap_ops = {$/;"	v	typeref:struct:iomap_ops
+ext2_iomap_ops	inode.c	/^const struct iomap_ops ext2_iomap_ops;$/;"	v	typeref:struct:iomap_ops
+ext2_last_byte	dir.c	/^ext2_last_byte(struct inode *inode, unsigned long page_nr)$/;"	f	file:
+ext2_link	namei.c	/^static int ext2_link (struct dentry * old_dentry, struct inode * dir,$/;"	f	file:
+ext2_listxattr	xattr.c	/^ext2_listxattr(struct dentry *dentry, char *buffer, size_t size)$/;"	f
+ext2_lookup	namei.c	/^static struct dentry *ext2_lookup(struct inode * dir, struct dentry *dentry, unsigned int flags)$/;"	f	file:
+ext2_make_empty	dir.c	/^int ext2_make_empty(struct inode *inode, struct inode *parent)$/;"	f
+ext2_mask_flags	ext2.h	/^static inline __u32 ext2_mask_flags(umode_t mode, __u32 flags)$/;"	f
+ext2_match	dir.c	/^static inline int ext2_match (int len, const char * const name,$/;"	f	file:
+ext2_max_size	super.c	/^static loff_t ext2_max_size(int bits)$/;"	f	file:
+ext2_mkdir	namei.c	/^static int ext2_mkdir(struct inode * dir, struct dentry * dentry, umode_t mode)$/;"	f	file:
+ext2_mknod	namei.c	/^static int ext2_mknod (struct inode * dir, struct dentry *dentry, umode_t mode, dev_t rdev)$/;"	f	file:
+ext2_mount	super.c	/^static struct dentry *ext2_mount(struct file_system_type *fs_type,$/;"	f	file:
+ext2_mount_options	ext2.h	/^struct ext2_mount_options {$/;"	s
+ext2_msg	super.c	/^void ext2_msg(struct super_block *sb, const char *prefix,$/;"	f
+ext2_new_block	balloc.c	/^ext2_fsblk_t ext2_new_block(struct inode *inode, unsigned long goal, int *errp)$/;"	f
+ext2_new_blocks	balloc.c	/^ext2_fsblk_t ext2_new_blocks(struct inode *inode, ext2_fsblk_t goal,$/;"	f
+ext2_new_inode	ialloc.c	/^struct inode *ext2_new_inode(struct inode *dir, umode_t mode,$/;"	f
+ext2_next_entry	dir.c	/^static inline ext2_dirent *ext2_next_entry(ext2_dirent *p)$/;"	f	file:
+ext2_nfs_get_inode	super.c	/^static struct inode *ext2_nfs_get_inode(struct super_block *sb,$/;"	f	file:
+ext2_nobh_aops	inode.c	/^const struct address_space_operations ext2_nobh_aops = {$/;"	v	typeref:struct:address_space_operations
+ext2_nobh_write_begin	inode.c	/^ext2_nobh_write_begin(struct file *file, struct address_space *mapping,$/;"	f	file:
+ext2_nobh_writepage	inode.c	/^static int ext2_nobh_writepage(struct page *page,$/;"	f	file:
+ext2_prepare_chunk	dir.c	/^static int ext2_prepare_chunk(struct page *page, loff_t pos, unsigned len)$/;"	f	file:
+ext2_preread_inode	ialloc.c	/^static void ext2_preread_inode(struct inode *inode)$/;"	f	file:
+ext2_put_page	dir.c	/^static inline void ext2_put_page(struct page *page)$/;"	f	file:
+ext2_put_super	super.c	/^static void ext2_put_super (struct super_block * sb)$/;"	f	file:
+ext2_quota_off	super.c	/^static int ext2_quota_off(struct super_block *sb, int type)$/;"	f	file:
+ext2_quota_off_umount	super.c	/^static inline void ext2_quota_off_umount(struct super_block *sb)$/;"	f	file:
+ext2_quota_off_umount	super.c	/^static void ext2_quota_off_umount(struct super_block *sb)$/;"	f	file:
+ext2_quota_on	super.c	/^static int ext2_quota_on(struct super_block *sb, int type, int format_id,$/;"	f	file:
+ext2_quota_read	super.c	/^static ssize_t ext2_quota_read(struct super_block *sb, int type, char *data,$/;"	f	file:
+ext2_quota_write	super.c	/^static ssize_t ext2_quota_write(struct super_block *sb, int type,$/;"	f	file:
+ext2_quotactl_ops	super.c	/^static const struct quotactl_ops ext2_quotactl_ops = {$/;"	v	typeref:struct:quotactl_ops	file:
+ext2_readdir	dir.c	/^ext2_readdir(struct file *file, struct dir_context *ctx)$/;"	f	file:
+ext2_readpage	inode.c	/^static int ext2_readpage(struct file *file, struct page *page)$/;"	f	file:
+ext2_readpages	inode.c	/^ext2_readpages(struct file *file, struct address_space *mapping,$/;"	f	file:
+ext2_rec_len_from_disk	dir.c	/^static inline unsigned ext2_rec_len_from_disk(__le16 dlen)$/;"	f	file:
+ext2_rec_len_to_disk	dir.c	/^static inline __le16 ext2_rec_len_to_disk(unsigned len)$/;"	f	file:
+ext2_release_file	file.c	/^static int ext2_release_file (struct inode * inode, struct file * filp)$/;"	f	file:
+ext2_release_inode	ialloc.c	/^static void ext2_release_inode(struct super_block *sb, int group, int dir)$/;"	f	file:
+ext2_remount	super.c	/^static int ext2_remount (struct super_block * sb, int * flags, char * data)$/;"	f	file:
+ext2_rename	namei.c	/^static int ext2_rename (struct inode * old_dir, struct dentry * old_dentry,$/;"	f	file:
+ext2_reserve_window	ext2.h	/^struct ext2_reserve_window {$/;"	s
+ext2_reserve_window_node	ext2.h	/^struct ext2_reserve_window_node {$/;"	s
+ext2_rmdir	namei.c	/^static int ext2_rmdir (struct inode * dir, struct dentry *dentry)$/;"	f	file:
+ext2_rsv_window_add	balloc.c	/^void ext2_rsv_window_add(struct super_block *sb,$/;"	f
+ext2_sb_info	ext2.h	/^struct ext2_sb_info {$/;"	s
+ext2_set_acl	acl.c	/^ext2_set_acl(struct inode *inode, struct posix_acl *acl, int type)$/;"	f
+ext2_set_acl	acl.h	65;"	d
+ext2_set_bit	ext2.h	816;"	d
+ext2_set_de_type	dir.c	/^static inline void ext2_set_de_type(ext2_dirent *de, struct inode *inode)$/;"	f	file:
+ext2_set_file_ops	inode.c	/^void ext2_set_file_ops(struct inode *inode)$/;"	f
+ext2_set_inode_flags	inode.c	/^void ext2_set_inode_flags(struct inode *inode)$/;"	f
+ext2_set_link	dir.c	/^void ext2_set_link(struct inode *dir, struct ext2_dir_entry_2 *de,$/;"	f
+ext2_setattr	inode.c	/^int ext2_setattr(struct dentry *dentry, struct iattr *iattr)$/;"	f
+ext2_setsize	inode.c	/^static int ext2_setsize(struct inode *inode, loff_t newsize)$/;"	f	file:
+ext2_setup_super	super.c	/^static int ext2_setup_super (struct super_block * sb,$/;"	f	file:
+ext2_show_options	super.c	/^static int ext2_show_options(struct seq_file *seq, struct dentry *root)$/;"	f	file:
+ext2_sops	super.c	/^static const struct super_operations ext2_sops = {$/;"	v	typeref:struct:super_operations	file:
+ext2_special_inode_operations	namei.c	/^const struct inode_operations ext2_special_inode_operations = {$/;"	v	typeref:struct:inode_operations
+ext2_splice_branch	inode.c	/^static void ext2_splice_branch(struct inode *inode,$/;"	f	file:
+ext2_statfs	super.c	/^static int ext2_statfs (struct dentry * dentry, struct kstatfs * buf)$/;"	f	file:
+ext2_super_block	ext2.h	/^struct ext2_super_block {$/;"	s
+ext2_symlink	namei.c	/^static int ext2_symlink (struct inode * dir, struct dentry * dentry,$/;"	f	file:
+ext2_symlink_inode_operations	symlink.c	/^const struct inode_operations ext2_symlink_inode_operations = {$/;"	v	typeref:struct:inode_operations
+ext2_sync_fs	super.c	/^static int ext2_sync_fs(struct super_block *sb, int wait)$/;"	f	file:
+ext2_sync_super	super.c	/^void ext2_sync_super(struct super_block *sb, struct ext2_super_block *es,$/;"	f
+ext2_test_bit	ext2.h	818;"	d
+ext2_tmpfile	namei.c	/^static int ext2_tmpfile(struct inode *dir, struct dentry *dentry, umode_t mode)$/;"	f	file:
+ext2_truncate_blocks	inode.c	/^static void ext2_truncate_blocks(struct inode *inode, loff_t offset)$/;"	f	file:
+ext2_try_to_allocate	balloc.c	/^ext2_try_to_allocate(struct super_block *sb, int group,$/;"	f	file:
+ext2_try_to_allocate_with_rsv	balloc.c	/^ext2_try_to_allocate_with_rsv(struct super_block *sb, unsigned int group,$/;"	f	file:
+ext2_unfreeze	super.c	/^static int ext2_unfreeze(struct super_block *sb)$/;"	f	file:
+ext2_unlink	namei.c	/^static int ext2_unlink(struct inode * dir, struct dentry *dentry)$/;"	f	file:
+ext2_update_dynamic_rev	super.c	/^void ext2_update_dynamic_rev(struct super_block *sb)$/;"	f
+ext2_valid_block_bitmap	balloc.c	/^static int ext2_valid_block_bitmap(struct super_block *sb,$/;"	f	file:
+ext2_validate_entry	dir.c	/^ext2_validate_entry(char *base, unsigned offset, unsigned mask)$/;"	f	file:
+ext2_write_begin	inode.c	/^ext2_write_begin(struct file *file, struct address_space *mapping,$/;"	f	file:
+ext2_write_end	inode.c	/^static int ext2_write_end(struct file *file, struct address_space *mapping,$/;"	f	file:
+ext2_write_failed	inode.c	/^static void ext2_write_failed(struct address_space *mapping, loff_t to)$/;"	f	file:
+ext2_write_inode	inode.c	/^int ext2_write_inode(struct inode *inode, struct writeback_control *wbc)$/;"	f
+ext2_write_super	super.c	/^static void ext2_write_super(struct super_block *sb)$/;"	f	file:
+ext2_writepage	inode.c	/^static int ext2_writepage(struct page *page, struct writeback_control *wbc)$/;"	f	file:
+ext2_writepages	inode.c	/^ext2_writepages(struct address_space *mapping, struct writeback_control *wbc)$/;"	f	file:
+ext2_xattr_cache_find	xattr.c	/^ext2_xattr_cache_find(struct inode *inode, struct ext2_xattr_header *header)$/;"	f	file:
+ext2_xattr_cache_insert	xattr.c	/^ext2_xattr_cache_insert(struct mb_cache *cache, struct buffer_head *bh)$/;"	f	file:
+ext2_xattr_cmp	xattr.c	/^ext2_xattr_cmp(struct ext2_xattr_header *header1,$/;"	f	file:
+ext2_xattr_create_cache	xattr.c	/^struct mb_cache *ext2_xattr_create_cache(void)$/;"	f
+ext2_xattr_delete_inode	xattr.c	/^ext2_xattr_delete_inode(struct inode *inode)$/;"	f
+ext2_xattr_delete_inode	xattr.h	/^ext2_xattr_delete_inode(struct inode *inode)$/;"	f
+ext2_xattr_destroy_cache	xattr.c	/^void ext2_xattr_destroy_cache(struct mb_cache *cache)$/;"	f
+ext2_xattr_destroy_cache	xattr.h	/^static inline void ext2_xattr_destroy_cache(struct mb_cache *cache)$/;"	f
+ext2_xattr_entry	xattr.h	/^struct ext2_xattr_entry {$/;"	s
+ext2_xattr_get	xattr.c	/^ext2_xattr_get(struct inode *inode, int name_index, const char *name,$/;"	f
+ext2_xattr_get	xattr.h	/^ext2_xattr_get(struct inode *inode, int name_index,$/;"	f
+ext2_xattr_handler	xattr.c	/^ext2_xattr_handler(int name_index)$/;"	f	file:
+ext2_xattr_handler_map	xattr.c	/^static const struct xattr_handler *ext2_xattr_handler_map[] = {$/;"	v	typeref:struct:xattr_handler	file:
+ext2_xattr_handlers	xattr.c	/^const struct xattr_handler *ext2_xattr_handlers[] = {$/;"	v	typeref:struct:xattr_handler
+ext2_xattr_handlers	xattr.h	102;"	d
+ext2_xattr_hash_entry	xattr.c	/^static inline void ext2_xattr_hash_entry(struct ext2_xattr_header *header,$/;"	f	file:
+ext2_xattr_header	xattr.h	/^struct ext2_xattr_header {$/;"	s
+ext2_xattr_list	xattr.c	/^ext2_xattr_list(struct dentry *dentry, char *buffer, size_t buffer_size)$/;"	f	file:
+ext2_xattr_rehash	xattr.c	/^static void ext2_xattr_rehash(struct ext2_xattr_header *header,$/;"	f	file:
+ext2_xattr_security_get	xattr_security.c	/^ext2_xattr_security_get(const struct xattr_handler *handler,$/;"	f	file:
+ext2_xattr_security_handler	xattr_security.c	/^const struct xattr_handler ext2_xattr_security_handler = {$/;"	v	typeref:struct:xattr_handler
+ext2_xattr_security_set	xattr_security.c	/^ext2_xattr_security_set(const struct xattr_handler *handler,$/;"	f	file:
+ext2_xattr_set	xattr.c	/^ext2_xattr_set(struct inode *inode, int name_index, const char *name,$/;"	f
+ext2_xattr_set	xattr.h	/^ext2_xattr_set(struct inode *inode, int name_index, const char *name,$/;"	f
+ext2_xattr_set2	xattr.c	/^ext2_xattr_set2(struct inode *inode, struct buffer_head *old_bh,$/;"	f	file:
+ext2_xattr_trusted_get	xattr_trusted.c	/^ext2_xattr_trusted_get(const struct xattr_handler *handler,$/;"	f	file:
+ext2_xattr_trusted_handler	xattr_trusted.c	/^const struct xattr_handler ext2_xattr_trusted_handler = {$/;"	v	typeref:struct:xattr_handler
+ext2_xattr_trusted_list	xattr_trusted.c	/^ext2_xattr_trusted_list(struct dentry *dentry)$/;"	f	file:
+ext2_xattr_trusted_set	xattr_trusted.c	/^ext2_xattr_trusted_set(const struct xattr_handler *handler,$/;"	f	file:
+ext2_xattr_update_super_block	xattr.c	/^static void ext2_xattr_update_super_block(struct super_block *sb)$/;"	f	file:
+ext2_xattr_user_get	xattr_user.c	/^ext2_xattr_user_get(const struct xattr_handler *handler,$/;"	f	file:
+ext2_xattr_user_handler	xattr_user.c	/^const struct xattr_handler ext2_xattr_user_handler = {$/;"	v	typeref:struct:xattr_handler
+ext2_xattr_user_list	xattr_user.c	/^ext2_xattr_user_list(struct dentry *dentry)$/;"	f	file:
+ext2_xattr_user_set	xattr_user.c	/^ext2_xattr_user_set(const struct xattr_handler *handler,$/;"	f	file:
+file_type	ext2.h	/^	__u8	file_type;$/;"	m	struct:ext2_dir_entry_2
+find_group_dir	ialloc.c	/^static int find_group_dir(struct super_block *sb, struct inode *parent)$/;"	f	file:
+find_group_orlov	ialloc.c	/^static int find_group_orlov(struct super_block *sb, struct inode *parent)$/;"	f	file:
+find_group_other	ialloc.c	/^static int find_group_other(struct super_block *sb, struct inode *parent)$/;"	f	file:
+find_next_reservable_window	balloc.c	/^static int find_next_reservable_window($/;"	f	file:
+find_next_usable_block	balloc.c	/^find_next_usable_block(int start, struct buffer_head *bh, int maxblocks)$/;"	f	file:
+get_sb_block	super.c	/^static unsigned long get_sb_block(void **data)$/;"	f	file:
+goal_in_my_reservation	balloc.c	/^goal_in_my_reservation(struct ext2_reserve_window *rsv, ext2_grpblk_t grp_goal,$/;"	f	file:
+group_adjust_blocks	balloc.c	/^static void group_adjust_blocks(struct super_block *sb, int group_no,$/;"	f	file:
+h_blocks	xattr.h	/^	__le32	h_blocks;	\/* number of disk blocks used *\/$/;"	m	struct:ext2_xattr_header
+h_hash	xattr.h	/^	__le32	h_hash;		\/* hash value of all attributes *\/$/;"	m	struct:ext2_xattr_header
+h_i_author	ext2.h	/^			__le32	h_i_author;$/;"	m	struct:ext2_inode::__anon10::__anon12
+h_i_frag	ext2.h	/^			__u8	h_i_frag;	\/* Fragment number *\/$/;"	m	struct:ext2_inode::__anon10::__anon12
+h_i_fsize	ext2.h	/^			__u8	h_i_fsize;	\/* Fragment size *\/$/;"	m	struct:ext2_inode::__anon10::__anon12
+h_i_gid_high	ext2.h	/^			__le16	h_i_gid_high;$/;"	m	struct:ext2_inode::__anon10::__anon12
+h_i_mode_high	ext2.h	/^			__le16	h_i_mode_high;$/;"	m	struct:ext2_inode::__anon10::__anon12
+h_i_translator	ext2.h	/^			__le32  h_i_translator;$/;"	m	struct:ext2_inode::__anon6::__anon8
+h_i_uid_high	ext2.h	/^			__le16	h_i_uid_high;$/;"	m	struct:ext2_inode::__anon10::__anon12
+h_magic	xattr.h	/^	__le32	h_magic;	\/* magic number for identification *\/$/;"	m	struct:ext2_xattr_header
+h_refcount	xattr.h	/^	__le32	h_refcount;	\/* reference count *\/$/;"	m	struct:ext2_xattr_header
+h_reserved	xattr.h	/^	__u32	h_reserved[4];	\/* zero right now *\/$/;"	m	struct:ext2_xattr_header
+hurd1	ext2.h	/^		} hurd1;$/;"	m	union:ext2_inode::__anon6	typeref:struct:ext2_inode::__anon6::__anon8
+hurd2	ext2.h	/^		} hurd2;$/;"	m	union:ext2_inode::__anon10	typeref:struct:ext2_inode::__anon10::__anon12
+i_atime	ext2.h	/^	__le32	i_atime;	\/* Access time *\/$/;"	m	struct:ext2_inode
+i_block	ext2.h	/^	__le32	i_block[EXT2_N_BLOCKS];\/* Pointers to blocks *\/$/;"	m	struct:ext2_inode
+i_block_alloc_info	ext2.h	/^	struct ext2_block_alloc_info *i_block_alloc_info;$/;"	m	struct:ext2_inode_info	typeref:struct:ext2_inode_info::ext2_block_alloc_info
+i_block_group	ext2.h	/^	__u32	i_block_group;$/;"	m	struct:ext2_inode_info
+i_blocks	ext2.h	/^	__le32	i_blocks;	\/* Blocks count *\/$/;"	m	struct:ext2_inode
+i_ctime	ext2.h	/^	__le32	i_ctime;	\/* Creation time *\/$/;"	m	struct:ext2_inode
+i_data	ext2.h	/^	__le32	i_data[15];$/;"	m	struct:ext2_inode_info
+i_dir_acl	ext2.h	/^	__le32	i_dir_acl;	\/* Directory ACL *\/$/;"	m	struct:ext2_inode
+i_dir_acl	ext2.h	/^	__u32	i_dir_acl;$/;"	m	struct:ext2_inode_info
+i_dir_start_lookup	ext2.h	/^	__u32	i_dir_start_lookup;$/;"	m	struct:ext2_inode_info
+i_dquot	ext2.h	/^	struct dquot *i_dquot[MAXQUOTAS];$/;"	m	struct:ext2_inode_info	typeref:struct:ext2_inode_info::dquot
+i_dtime	ext2.h	/^	__le32	i_dtime;	\/* Deletion Time *\/$/;"	m	struct:ext2_inode
+i_dtime	ext2.h	/^	__u32	i_dtime;$/;"	m	struct:ext2_inode_info
+i_faddr	ext2.h	/^	__le32	i_faddr;	\/* Fragment address *\/$/;"	m	struct:ext2_inode
+i_faddr	ext2.h	/^	__u32	i_faddr;$/;"	m	struct:ext2_inode_info
+i_file_acl	ext2.h	/^	__le32	i_file_acl;	\/* File ACL *\/$/;"	m	struct:ext2_inode
+i_file_acl	ext2.h	/^	__u32	i_file_acl;$/;"	m	struct:ext2_inode_info
+i_flags	ext2.h	/^	__le32	i_flags;	\/* File flags *\/$/;"	m	struct:ext2_inode
+i_flags	ext2.h	/^	__u32	i_flags;$/;"	m	struct:ext2_inode_info
+i_frag	ext2.h	359;"	d
+i_frag_no	ext2.h	/^	__u8	i_frag_no;$/;"	m	struct:ext2_inode_info
+i_frag_size	ext2.h	/^	__u8	i_frag_size;$/;"	m	struct:ext2_inode_info
+i_fsize	ext2.h	360;"	d
+i_generation	ext2.h	/^	__le32	i_generation;	\/* File version (for NFS) *\/$/;"	m	struct:ext2_inode
+i_gid	ext2.h	/^	__le16	i_gid;		\/* Low 16 bits of Group Id *\/$/;"	m	struct:ext2_inode
+i_gid_high	ext2.h	364;"	d
+i_gid_low	ext2.h	362;"	d
+i_links_count	ext2.h	/^	__le16	i_links_count;	\/* Links count *\/$/;"	m	struct:ext2_inode
+i_meta_lock	ext2.h	/^	rwlock_t i_meta_lock;$/;"	m	struct:ext2_inode_info
+i_mode	ext2.h	/^	__le16	i_mode;		\/* File mode *\/$/;"	m	struct:ext2_inode
+i_mtime	ext2.h	/^	__le32	i_mtime;	\/* Modification time *\/$/;"	m	struct:ext2_inode
+i_orphan	ext2.h	/^	struct list_head i_orphan;	\/* unlinked but open inodes *\/$/;"	m	struct:ext2_inode_info	typeref:struct:ext2_inode_info::list_head
+i_pad1	ext2.h	/^			__u16	i_pad1;$/;"	m	struct:ext2_inode::__anon10::__anon11
+i_reserved1	ext2.h	358;"	d
+i_reserved2	ext2.h	365;"	d
+i_size	ext2.h	/^	__le32	i_size;		\/* Size in bytes *\/$/;"	m	struct:ext2_inode
+i_size_high	ext2.h	356;"	d
+i_state	ext2.h	/^	__u16	i_state;$/;"	m	struct:ext2_inode_info
+i_uid	ext2.h	/^	__le16	i_uid;		\/* Low 16 bits of Owner Uid *\/$/;"	m	struct:ext2_inode
+i_uid_high	ext2.h	363;"	d
+i_uid_low	ext2.h	361;"	d
+in_range	balloc.c	39;"	d	file:
+init_ext2_fs	super.c	/^static int __init init_ext2_fs(void)$/;"	f	file:
+init_inodecache	super.c	/^static int __init init_inodecache(void)$/;"	f	file:
+init_once	super.c	/^static void init_once(void *foo)$/;"	f	file:
+inode	ext2.h	/^	__le32	inode;			\/* Inode number *\/$/;"	m	struct:ext2_dir_entry
+inode	ext2.h	/^	__le32	inode;			\/* Inode number *\/$/;"	m	struct:ext2_dir_entry_2
+key	inode.c	/^	__le32	key;$/;"	m	struct:__anon1	file:
+l_i_frag	ext2.h	/^			__u8	l_i_frag;	\/* Fragment number *\/$/;"	m	struct:ext2_inode::__anon10::__anon11
+l_i_fsize	ext2.h	/^			__u8	l_i_fsize;	\/* Fragment size *\/$/;"	m	struct:ext2_inode::__anon10::__anon11
+l_i_gid_high	ext2.h	/^			__le16	l_i_gid_high;	\/* were reserved2[0] *\/$/;"	m	struct:ext2_inode::__anon10::__anon11
+l_i_reserved1	ext2.h	/^			__le32  l_i_reserved1;$/;"	m	struct:ext2_inode::__anon6::__anon7
+l_i_reserved2	ext2.h	/^			__u32	l_i_reserved2;$/;"	m	struct:ext2_inode::__anon10::__anon11
+l_i_uid_high	ext2.h	/^			__le16	l_i_uid_high;	\/* these 2 fields    *\/$/;"	m	struct:ext2_inode::__anon10::__anon11
+last_alloc_logical_block	ext2.h	/^	__u32			last_alloc_logical_block;$/;"	m	struct:ext2_block_alloc_info
+last_alloc_physical_block	ext2.h	/^	ext2_fsblk_t		last_alloc_physical_block;$/;"	m	struct:ext2_block_alloc_info
+linux1	ext2.h	/^		} linux1;$/;"	m	union:ext2_inode::__anon6	typeref:struct:ext2_inode::__anon6::__anon7
+linux2	ext2.h	/^		} linux2;$/;"	m	union:ext2_inode::__anon10	typeref:struct:ext2_inode::__anon10::__anon11
+m_i_frag	ext2.h	/^			__u8	m_i_frag;	\/* Fragment number *\/$/;"	m	struct:ext2_inode::__anon10::__anon13
+m_i_fsize	ext2.h	/^			__u8	m_i_fsize;	\/* Fragment size *\/$/;"	m	struct:ext2_inode::__anon10::__anon13
+m_i_reserved1	ext2.h	/^			__le32  m_i_reserved1;$/;"	m	struct:ext2_inode::__anon6::__anon9
+m_i_reserved2	ext2.h	/^			__u32	m_i_reserved2[2];$/;"	m	struct:ext2_inode::__anon10::__anon13
+m_pad1	ext2.h	/^			__u16	m_pad1;$/;"	m	struct:ext2_inode::__anon10::__anon13
+masix1	ext2.h	/^		} masix1;$/;"	m	union:ext2_inode::__anon6	typeref:struct:ext2_inode::__anon6::__anon9
+masix2	ext2.h	/^		} masix2;$/;"	m	union:ext2_inode::__anon10	typeref:struct:ext2_inode::__anon10::__anon13
+name	ext2.h	/^	char	name[];			\/* File name, up to EXT2_NAME_LEN *\/$/;"	m	struct:ext2_dir_entry
+name	ext2.h	/^	char	name[];			\/* File name, up to EXT2_NAME_LEN *\/$/;"	m	struct:ext2_dir_entry_2
+name_len	ext2.h	/^	__le16	name_len;		\/* Name length *\/$/;"	m	struct:ext2_dir_entry
+name_len	ext2.h	/^	__u8	name_len;		\/* Name length *\/$/;"	m	struct:ext2_dir_entry_2
+osd1	ext2.h	/^	} osd1;				\/* OS dependent 1 *\/$/;"	m	struct:ext2_inode	typeref:union:ext2_inode::__anon6
+osd2	ext2.h	/^	} osd2;				\/* OS dependent 2 *\/$/;"	m	struct:ext2_inode	typeref:union:ext2_inode::__anon10
+p	inode.c	/^	__le32	*p;$/;"	m	struct:__anon1	file:
+parse_options	super.c	/^static int parse_options(char *options, struct super_block *sb,$/;"	f	file:
+read_block_bitmap	balloc.c	/^read_block_bitmap(struct super_block *sb, unsigned int block_group)$/;"	f	file:
+read_inode_bitmap	ialloc.c	/^read_inode_bitmap(struct super_block * sb, unsigned long block_group)$/;"	f	file:
+rec_len	ext2.h	/^	__le16	rec_len;		\/* Directory entry length *\/$/;"	m	struct:ext2_dir_entry
+rec_len	ext2.h	/^	__le16	rec_len;		\/* Directory entry length *\/$/;"	m	struct:ext2_dir_entry_2
+rsv_alloc_hit	ext2.h	/^	__u32			rsv_alloc_hit;$/;"	m	struct:ext2_reserve_window_node
+rsv_end	ext2.h	63;"	d
+rsv_goal_size	ext2.h	/^	__u32			rsv_goal_size;$/;"	m	struct:ext2_reserve_window_node
+rsv_is_empty	balloc.c	/^static inline int rsv_is_empty(struct ext2_reserve_window *rsv)$/;"	f	file:
+rsv_node	ext2.h	/^	struct rb_node	 	rsv_node;$/;"	m	struct:ext2_reserve_window_node	typeref:struct:ext2_reserve_window_node::rb_node
+rsv_start	ext2.h	62;"	d
+rsv_window	ext2.h	/^	struct ext2_reserve_window	rsv_window;$/;"	m	struct:ext2_reserve_window_node	typeref:struct:ext2_reserve_window_node::ext2_reserve_window
+rsv_window_dump	balloc.c	243;"	d	file:
+rsv_window_dump	balloc.c	246;"	d	file:
+rsv_window_node	ext2.h	/^	struct ext2_reserve_window_node	rsv_window_node;$/;"	m	struct:ext2_block_alloc_info	typeref:struct:ext2_block_alloc_info::ext2_reserve_window_node
+rsv_window_remove	balloc.c	/^static void rsv_window_remove(struct super_block *sb,$/;"	f	file:
+s_addr_per_block_bits	ext2.h	/^	int s_addr_per_block_bits;$/;"	m	struct:ext2_sb_info
+s_algorithm_usage_bitmap	ext2.h	/^	__le32	s_algorithm_usage_bitmap; \/* For compression *\/$/;"	m	struct:ext2_super_block
+s_block_group_nr	ext2.h	/^	__le16	s_block_group_nr; 	\/* block group # of this superblock *\/$/;"	m	struct:ext2_super_block
+s_blockgroup_lock	ext2.h	/^	struct blockgroup_lock *s_blockgroup_lock;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::blockgroup_lock
+s_blocks_count	ext2.h	/^	__le32	s_blocks_count;		\/* Blocks count *\/$/;"	m	struct:ext2_super_block
+s_blocks_last	ext2.h	/^	unsigned long s_blocks_last;    \/* Last seen block count *\/$/;"	m	struct:ext2_sb_info
+s_blocks_per_group	ext2.h	/^	__le32	s_blocks_per_group;	\/* # Blocks per group *\/$/;"	m	struct:ext2_super_block
+s_blocks_per_group	ext2.h	/^	unsigned long s_blocks_per_group;\/* Number of blocks in a group *\/$/;"	m	struct:ext2_sb_info
+s_checkinterval	ext2.h	/^	__le32	s_checkinterval;	\/* max. time between checks *\/$/;"	m	struct:ext2_super_block
+s_creator_os	ext2.h	/^	__le32	s_creator_os;		\/* OS *\/$/;"	m	struct:ext2_super_block
+s_daxdev	ext2.h	/^	struct dax_device *s_daxdev;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::dax_device
+s_debts	ext2.h	/^	u8 *s_debts;$/;"	m	struct:ext2_sb_info
+s_def_hash_version	ext2.h	/^	__u8	s_def_hash_version;	\/* Default hash version to use *\/$/;"	m	struct:ext2_super_block
+s_def_resgid	ext2.h	/^	__le16	s_def_resgid;		\/* Default gid for reserved blocks *\/$/;"	m	struct:ext2_super_block
+s_def_resuid	ext2.h	/^	__le16	s_def_resuid;		\/* Default uid for reserved blocks *\/$/;"	m	struct:ext2_super_block
+s_default_mount_opts	ext2.h	/^	__le32	s_default_mount_opts;$/;"	m	struct:ext2_super_block
+s_desc_per_block	ext2.h	/^	unsigned long s_desc_per_block;	\/* Number of group descriptors per block *\/$/;"	m	struct:ext2_sb_info
+s_desc_per_block_bits	ext2.h	/^	int s_desc_per_block_bits;$/;"	m	struct:ext2_sb_info
+s_dir_count	ext2.h	/^	unsigned long s_dir_count;$/;"	m	struct:ext2_sb_info
+s_dirs_counter	ext2.h	/^	struct percpu_counter s_dirs_counter;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::percpu_counter
+s_ea_block_cache	ext2.h	/^	struct mb_cache *s_ea_block_cache;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::mb_cache
+s_errors	ext2.h	/^	__le16	s_errors;		\/* Behaviour when detecting errors *\/$/;"	m	struct:ext2_super_block
+s_es	ext2.h	/^	struct ext2_super_block * s_es;	\/* Pointer to the super block in the buffer *\/$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::ext2_super_block
+s_feature_compat	ext2.h	/^	__le32	s_feature_compat; 	\/* compatible feature set *\/$/;"	m	struct:ext2_super_block
+s_feature_incompat	ext2.h	/^	__le32	s_feature_incompat; 	\/* incompatible feature set *\/$/;"	m	struct:ext2_super_block
+s_feature_ro_compat	ext2.h	/^	__le32	s_feature_ro_compat; 	\/* readonly-compatible feature set *\/$/;"	m	struct:ext2_super_block
+s_first_data_block	ext2.h	/^	__le32	s_first_data_block;	\/* First Data Block *\/$/;"	m	struct:ext2_super_block
+s_first_ino	ext2.h	/^	__le32	s_first_ino; 		\/* First non-reserved inode *\/$/;"	m	struct:ext2_super_block
+s_first_ino	ext2.h	/^	int s_first_ino;$/;"	m	struct:ext2_sb_info
+s_first_meta_bg	ext2.h	/^ 	__le32	s_first_meta_bg; 	\/* First metablock block group *\/$/;"	m	struct:ext2_super_block
+s_frag_size	ext2.h	/^	unsigned long s_frag_size;	\/* Size of a fragment in bytes *\/$/;"	m	struct:ext2_sb_info
+s_frags_per_block	ext2.h	/^	unsigned long s_frags_per_block;\/* Number of fragments per block *\/$/;"	m	struct:ext2_sb_info
+s_frags_per_group	ext2.h	/^	__le32	s_frags_per_group;	\/* # Fragments per group *\/$/;"	m	struct:ext2_super_block
+s_frags_per_group	ext2.h	/^	unsigned long s_frags_per_group;\/* Number of fragments in a group *\/$/;"	m	struct:ext2_sb_info
+s_free_blocks_count	ext2.h	/^	__le32	s_free_blocks_count;	\/* Free blocks count *\/$/;"	m	struct:ext2_super_block
+s_free_inodes_count	ext2.h	/^	__le32	s_free_inodes_count;	\/* Free inodes count *\/$/;"	m	struct:ext2_super_block
+s_freeblocks_counter	ext2.h	/^	struct percpu_counter s_freeblocks_counter;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::percpu_counter
+s_freeinodes_counter	ext2.h	/^	struct percpu_counter s_freeinodes_counter;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::percpu_counter
+s_gdb_count	ext2.h	/^	unsigned long s_gdb_count;	\/* Number of group descriptor blocks *\/$/;"	m	struct:ext2_sb_info
+s_group_desc	ext2.h	/^	struct buffer_head ** s_group_desc;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::buffer_head
+s_groups_count	ext2.h	/^	unsigned long s_groups_count;	\/* Number of groups in the fs *\/$/;"	m	struct:ext2_sb_info
+s_hash_seed	ext2.h	/^	__u32	s_hash_seed[4];		\/* HTREE hash seed *\/$/;"	m	struct:ext2_super_block
+s_inode_size	ext2.h	/^	__le16   s_inode_size; 		\/* size of inode structure *\/$/;"	m	struct:ext2_super_block
+s_inode_size	ext2.h	/^	int s_inode_size;$/;"	m	struct:ext2_sb_info
+s_inodes_count	ext2.h	/^	__le32	s_inodes_count;		\/* Inodes count *\/$/;"	m	struct:ext2_super_block
+s_inodes_per_block	ext2.h	/^	unsigned long s_inodes_per_block;\/* Number of inodes per block *\/$/;"	m	struct:ext2_sb_info
+s_inodes_per_group	ext2.h	/^	__le32	s_inodes_per_group;	\/* # Inodes per group *\/$/;"	m	struct:ext2_super_block
+s_inodes_per_group	ext2.h	/^	unsigned long s_inodes_per_group;\/* Number of inodes in a group *\/$/;"	m	struct:ext2_sb_info
+s_itb_per_group	ext2.h	/^	unsigned long s_itb_per_group;	\/* Number of inode table blocks per group *\/$/;"	m	struct:ext2_sb_info
+s_journal_dev	ext2.h	/^	__u32	s_journal_dev;		\/* device number of journal file *\/$/;"	m	struct:ext2_super_block
+s_journal_inum	ext2.h	/^	__u32	s_journal_inum;		\/* inode number of journal file *\/$/;"	m	struct:ext2_super_block
+s_journal_uuid	ext2.h	/^	__u8	s_journal_uuid[16];	\/* uuid of journal superblock *\/$/;"	m	struct:ext2_super_block
+s_last_mounted	ext2.h	/^	char	s_last_mounted[64]; 	\/* directory where last mounted *\/$/;"	m	struct:ext2_super_block
+s_last_orphan	ext2.h	/^	__u32	s_last_orphan;		\/* start of list of inodes to delete *\/$/;"	m	struct:ext2_super_block
+s_lastcheck	ext2.h	/^	__le32	s_lastcheck;		\/* time of last check *\/$/;"	m	struct:ext2_super_block
+s_lock	ext2.h	/^	spinlock_t s_lock;$/;"	m	struct:ext2_sb_info
+s_log_block_size	ext2.h	/^	__le32	s_log_block_size;	\/* Block size *\/$/;"	m	struct:ext2_super_block
+s_log_frag_size	ext2.h	/^	__le32	s_log_frag_size;	\/* Fragment size *\/$/;"	m	struct:ext2_super_block
+s_magic	ext2.h	/^	__le16	s_magic;		\/* Magic signature *\/$/;"	m	struct:ext2_super_block
+s_max_mnt_count	ext2.h	/^	__le16	s_max_mnt_count;	\/* Maximal mount count *\/$/;"	m	struct:ext2_super_block
+s_minor_rev_level	ext2.h	/^	__le16	s_minor_rev_level; 	\/* minor revision level *\/$/;"	m	struct:ext2_super_block
+s_mnt_count	ext2.h	/^	__le16	s_mnt_count;		\/* Mount count *\/$/;"	m	struct:ext2_super_block
+s_mount_opt	ext2.h	/^	unsigned long  s_mount_opt;$/;"	m	struct:ext2_sb_info
+s_mount_opt	ext2.h	/^	unsigned long s_mount_opt;$/;"	m	struct:ext2_mount_options
+s_mount_state	ext2.h	/^	unsigned short s_mount_state;$/;"	m	struct:ext2_sb_info
+s_mtime	ext2.h	/^	__le32	s_mtime;		\/* Mount time *\/$/;"	m	struct:ext2_super_block
+s_next_gen_lock	ext2.h	/^	spinlock_t s_next_gen_lock;$/;"	m	struct:ext2_sb_info
+s_next_generation	ext2.h	/^	u32 s_next_generation;$/;"	m	struct:ext2_sb_info
+s_overhead_last	ext2.h	/^	unsigned long s_overhead_last;  \/* Last calculated overhead *\/$/;"	m	struct:ext2_sb_info
+s_pad	ext2.h	/^	unsigned short s_pad;$/;"	m	struct:ext2_sb_info
+s_padding1	ext2.h	/^	__u16	s_padding1;$/;"	m	struct:ext2_super_block
+s_prealloc_blocks	ext2.h	/^	__u8	s_prealloc_blocks;	\/* Nr of blocks to try to preallocate*\/$/;"	m	struct:ext2_super_block
+s_prealloc_dir_blocks	ext2.h	/^	__u8	s_prealloc_dir_blocks;	\/* Nr to preallocate for dirs *\/$/;"	m	struct:ext2_super_block
+s_r_blocks_count	ext2.h	/^	__le32	s_r_blocks_count;	\/* Reserved blocks count *\/$/;"	m	struct:ext2_super_block
+s_reserved	ext2.h	/^	__u32	s_reserved[190];	\/* Padding to the end of the block *\/$/;"	m	struct:ext2_super_block
+s_reserved_char_pad	ext2.h	/^	__u8	s_reserved_char_pad;$/;"	m	struct:ext2_super_block
+s_reserved_word_pad	ext2.h	/^	__u16	s_reserved_word_pad;$/;"	m	struct:ext2_super_block
+s_resgid	ext2.h	/^	kgid_t s_resgid;$/;"	m	struct:ext2_mount_options
+s_resgid	ext2.h	/^	kgid_t s_resgid;$/;"	m	struct:ext2_sb_info
+s_resuid	ext2.h	/^	kuid_t s_resuid;$/;"	m	struct:ext2_mount_options
+s_resuid	ext2.h	/^	kuid_t s_resuid;$/;"	m	struct:ext2_sb_info
+s_rev_level	ext2.h	/^	__le32	s_rev_level;		\/* Revision level *\/$/;"	m	struct:ext2_super_block
+s_rsv_window_head	ext2.h	/^	struct ext2_reserve_window_node s_rsv_window_head;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::ext2_reserve_window_node
+s_rsv_window_lock	ext2.h	/^	spinlock_t s_rsv_window_lock;$/;"	m	struct:ext2_sb_info
+s_rsv_window_root	ext2.h	/^	struct rb_root s_rsv_window_root;$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::rb_root
+s_sb_block	ext2.h	/^	unsigned long s_sb_block;$/;"	m	struct:ext2_sb_info
+s_sbh	ext2.h	/^	struct buffer_head * s_sbh;	\/* Buffer containing the super block *\/$/;"	m	struct:ext2_sb_info	typeref:struct:ext2_sb_info::buffer_head
+s_state	ext2.h	/^	__le16	s_state;		\/* File system state *\/$/;"	m	struct:ext2_super_block
+s_uuid	ext2.h	/^	__u8	s_uuid[16];		\/* 128-bit uuid for volume *\/$/;"	m	struct:ext2_super_block
+s_volume_name	ext2.h	/^	char	s_volume_name[16]; 	\/* volume name *\/$/;"	m	struct:ext2_super_block
+s_wtime	ext2.h	/^	__le32	s_wtime;		\/* Write time *\/$/;"	m	struct:ext2_super_block
+sb_bgl_lock	ext2.h	/^sb_bgl_lock(struct ext2_sb_info *sbi, unsigned int block_group)$/;"	f
+search_reserve_window	balloc.c	/^search_reserve_window(struct rb_root *root, ext2_fsblk_t goal)$/;"	f	file:
+set_opt	ext2.h	397;"	d
+test_opt	ext2.h	398;"	d
+test_root	balloc.c	/^static inline int test_root(int a, int b)$/;"	f	file:
+tokens	super.c	/^static const match_table_t tokens = {$/;"	v	file:
+truncate_mutex	ext2.h	/^	struct mutex truncate_mutex;$/;"	m	struct:ext2_inode_info	typeref:struct:ext2_inode_info::mutex
+try_to_extend_reservation	balloc.c	/^static void try_to_extend_reservation(struct ext2_reserve_window_node *my_rsv,$/;"	f	file:
+verify_chain	inode.c	/^static inline int verify_chain(Indirect *from, Indirect *to)$/;"	f	file:
+verify_offsets	ext2.h	/^static inline void verify_offsets(void)$/;"	f
+vfs_inode	ext2.h	/^	struct inode	vfs_inode;$/;"	m	struct:ext2_inode_info	typeref:struct:ext2_inode_info::inode
+xattr_sem	ext2.h	/^	struct rw_semaphore xattr_sem;$/;"	m	struct:ext2_inode_info	typeref:struct:ext2_inode_info::rw_semaphore
