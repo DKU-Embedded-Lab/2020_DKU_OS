@@ -84,4 +84,52 @@ Documentation for conducting the assignment can be found at following link :
 
 ## Lab3
 
-Scheduled to upload
+If you want to proceed to Lab3, go to command below :
+
+```
+cd lab3_filesystem
+
+make
+
+insmod ramdisk.ko
+
+mkfs.ext2 /dev/ramdisk
+
+mkdir mnt
+
+mount /dev/ramdisk ./mnt
+
+./create.sh
+
+./apd mnt/A/BC 13 A/BC-13      //A, B, C is your last 3 digit of you student ID : XXXXXABC
+```
+
+then you can proceed Lab3
+
+If you want to proceed to Lab3-Bonus, go to command below :
+
+```
+umount /dev/ramdisk
+
+rmmod ramdisk
+
+insmod ramdisk.ko
+
+cd os_ext2          //change the source code
+
+make
+
+insmod os_ext2.ko
+
+mkfs.ext2 /dev/ramdisk
+
+mount -t os_ext /dev/ramdisk ../mnt
+
+dmesg | grep os_ext2
+```
+
+See the documentation for details.
+
+Documentation for conducting the assignment can be found at following link :
+
+#### [Lab3 Documentation Link](https://drive.google.com/open?id=1UvuepbFl5z1Cd2AFQltOGYj4unr16Lev)
