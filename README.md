@@ -132,4 +132,4 @@ See the documentation for details.
 
 Documentation for conducting the assignment can be found at following link :
 
-#### [Lab3 Documentation Link](https://drive.google.com/open?id=1Cg9HJNeYNSZOvYaIxqPv4aQOxreu4zA5)
+#### [Lab3 Documentation Link](https://drive.google.com/file/d/1k4MYyxDebCe5RiHk3o1-0pL3-mek5ual/view?usp=sharing)
