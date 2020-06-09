@@ -6,7 +6,7 @@ This is a place for studying Operaing System in Dankook University.
 - Assistant : Gunhee Choi (Email : choi_gunhee@dankook.ac.kr)
 - 2020 DKU Operating System Course Information [link](http://embedded.dankook.ac.kr/~choijm/course/course.html)
 
-#Lab3에서 보너스과제에서 컴파일 문제가 일어난 학생들은 새로운 OS 이미지를 다운하시거나 다시 올라온 Lab3 문서를 확인하시길 바랍니다.
+# Lab3에서 보너스과제에서 컴파일 문제가 일어난 학생들은 새로운 OS 이미지를 다운하시거나 다시 올라온 Lab3 문서를 확인하시길 바랍니다.
 
 
 ## Download Environment
